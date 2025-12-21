@@ -1,0 +1,1 @@
+def migrate(table): pass
